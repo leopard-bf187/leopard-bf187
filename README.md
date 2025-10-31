@@ -26,14 +26,18 @@ I lead a team that develops a game engine and games based on it.
 </div>
 
 
-### ⚙️ Technologies I have studied
+### ⚙️ Graphics technologies I have studied
 <!-- <div align="left"> -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<!-- <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="images/dx.png" height="100" alt="dx logo"/>
   <img src="images/vk.png" height="50" alt="vk logo"/>
   <img src="images/gl.png" height="50" alt="gl logo"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="c logo"/> -->
-</div>
+</div> -->
+
+| DirectX 11 & 12 | Vulkan | OpenGL |
+|:--------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------:|
+| <img src="images/dx.png" height="100" alt="dx logo"/> | <img src="images/vk.png" height="50" alt="vk logo"/> | <img src="images/gl.png" height="60" alt="gl logo"/> |
+
 
 
 ### 🖥️ Platforms I work with
