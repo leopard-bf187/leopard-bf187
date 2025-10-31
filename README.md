@@ -10,8 +10,6 @@ I'm skilled in computer graphics.
 I lead a team that develops a game engine and games based on it.
 </p>
 
-<br> 
-
 --- 
 
 ## 🛠️ My Tech Stack
@@ -47,8 +45,6 @@ I lead a team that develops a game engine and games based on it.
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="c logo"/> -->
 </div>
 
-<br>
-
 ---
 
 ### 🎨 Interests & Hobbies
@@ -59,8 +55,6 @@ I lead a team that develops a game engine and games based on it.
 - 🎮 Playing games  
 - 🧩 Game development & modding  
 - 🧰 Fixing and repairing PC
-
-<br>
 
 ---
 
