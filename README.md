@@ -15,16 +15,16 @@ I lead a team that develops a game engine and games based on it.
 ## 🛠️ My Tech Stack
 
 ### 💻 Programming Languages
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <img src="images/c.png" height="75" alt="c logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75" alt="cplusplus logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="75" alt="csharp logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="75" alt="lua logo"/>
+<div align="left">
+  <img src="images/c.png" height="75" alt="c logo"/> &nbsp&nbsp
+  <img src="images/cpp.png" height="75" alt="cplusplus logo"/> &nbsp&nbsp
+  <img src="images/cs.png" height="75" alt="csharp logo"/> &nbsp&nbsp
+  <img src="images/lua.png" height="75" alt="lua logo"/> &nbsp&nbsp
+  <img src="images/java.png" height="75" alt="java logo"/> &nbsp&nbsp
 </div>
 
 
-### ⚙️ Graphics technologies I have studied
+### ⚙️ Technologies I have studied
 <!-- <div align="left"> -->
 <!-- <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="images/dx.png" height="100" alt="dx logo"/>
@@ -32,13 +32,16 @@ I lead a team that develops a game engine and games based on it.
   <img src="images/gl.png" height="50" alt="gl logo"/>
 </div> -->
 
+| Graphics | Physics |
+|:---:|:---:|
+| <img src="images/dx.png" height="100" alt="dx logo"/> | <img src="images/physx.png" height="100" alt="physx logo"/>  |
+| <img src="images/vk.png" height="50" alt="vk logo"/>  | <img src="images/box2d.png" height="100" alt="box2d logo"/>  |
+| <img src="images/gl.png" height="75" alt="gl logo"/>  | <img src="images/bullet.png" height="75" alt="bullet logo"/> |
 
-| <img src="images/dx.png" height="100" alt="dx logo"/> | <img src="images/vk.png" height="50" alt="vk logo"/> | <img src="images/gl.png" height="60" alt="gl logo"/> |
-|:---:|:---:|:---:|
 
 
 ### 🖥️ Platforms I work with
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="75" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="75" alt="c logo"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="c logo"/> -->
