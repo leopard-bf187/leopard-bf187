@@ -32,10 +32,9 @@ I lead a team that develops a game engine and games based on it.
   <img src="images/gl.png" height="50" alt="gl logo"/>
 </div> -->
 
-|   |   |   |
-|:--------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------:|
+
 | <img src="images/dx.png" height="100" alt="dx logo"/> | <img src="images/vk.png" height="50" alt="vk logo"/> | <img src="images/gl.png" height="60" alt="gl logo"/> |
-|   |   |   |
+|:---:|:---:|:---:|
 
 
 ### 🖥️ Platforms I work with
