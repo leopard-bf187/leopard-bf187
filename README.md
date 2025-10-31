@@ -10,8 +10,6 @@ I'm skilled in computer graphics.
 I lead a team that develops a game engine and games based on it.
 </p>
 
-<br> 
-
 --- 
 
 ## 🛠️ My Tech Stack
@@ -34,10 +32,10 @@ I lead a team that develops a game engine and games based on it.
   <img src="images/gl.png" height="50" alt="gl logo"/>
 </div> -->
 
-| DirectX 11 & 12 | Vulkan | OpenGL |
+|   |   |   |
 |:--------------------------:|:--------------------------------------------------------:|:-------------------------------------------------------:|
 | <img src="images/dx.png" height="100" alt="dx logo"/> | <img src="images/vk.png" height="50" alt="vk logo"/> | <img src="images/gl.png" height="60" alt="gl logo"/> |
-
+|   |   |   |
 
 
 ### 🖥️ Platforms I work with
@@ -46,8 +44,6 @@ I lead a team that develops a game engine and games based on it.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="75" alt="c logo"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="c logo"/> -->
 </div>
-
-<br>
 
 ---
 
@@ -59,8 +55,6 @@ I lead a team that develops a game engine and games based on it.
 - 🎮 Playing games  
 - 🧩 Game development & modding  
 - 🧰 Fixing and repairing PC
-
-<br>
 
 ---
 
